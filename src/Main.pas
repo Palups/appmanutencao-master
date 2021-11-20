@@ -1,11 +1,8 @@
 unit Main;
-
 interface
-
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
-
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, MidasLib;
 type
   TfMain = class(TForm)
     btDatasetLoop: TButton;
@@ -21,27 +18,20 @@ type
     procedure saveToLog(pTxt: String); //salvar informacoes no log
     procedure handleException(Sender: TObject; E: Exception); //o que fazer em caso de excecao
   end;
-
 var
   fMain: TfMain;
-
 implementation
-
 uses
   DatasetLoop, ClienteServidor, Threads;
-
 {$R *.dfm}
-
 procedure TfMain.btDatasetLoopClick(Sender: TObject);
 begin
   fDatasetLoop.Show;
 end;
-
 procedure TfMain.btStreamsClick(Sender: TObject);
 begin
   fClienteServidor.Show;
 end;
-
 procedure TfMain.btThreadsClick(Sender: TObject);
 begin
   fThreads.Show;
