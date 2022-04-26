@@ -4,7 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Read this page in English!][usa-shield]](https://github.com/Palups/appmanutencao-master/blob/main/README.md)
 
@@ -27,17 +26,12 @@ Este projeto foi um desafio técnico feito para uma vaga de trabalho. Todos os h
 Implementações -> gerenciador de exceções com geração de log; barra de progresso; utilização de threads.
 Correções -> deletar valores pares na tela Datasetloop; erros de falta de memória na tela ClienteServidor.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Tecnologia utilizada
 
 * [Delphi](https://www.embarcadero.com/br/products/delphi/starter/free-download)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+<br>
 
 <!-- GETTING STARTED -->
 ## Como baixar & instalar
@@ -56,7 +50,7 @@ Windows SO.
    ```
 2. Fim.
 
-
+<br>
 
 <!-- USAGE EXAMPLES -->
 ## Como utilizar
