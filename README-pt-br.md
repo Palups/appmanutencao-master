@@ -8,10 +8,16 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<h3 align="center">Hiring evaluation project</h3>
+<br />
+<div align="center">
+  <a href="https://github.com/Palups/appmanutencao-master">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Projeto de avaliação de contratação</h3>
 
   <p align="center">
-    The goal was to demonstrate my skills in Delphi through implementations and fixes described.
+    O objetivo era demonstrar minhas habilidades em Delphi através de implementações e correções descritas em desafio.pdf.
     <br />
     <a href="https://github.com/Palups/appmanutencao-master"><strong>Explore the docs »</strong></a>
     <br />
@@ -50,10 +56,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project was a challenge made for a job vacancy. All hints, warnings and memory leaks should be resolved and all corrections and implementations made. That's what was done in the project:
+Este projeto foi um desafio técnico feito para uma vaga de trabalho. Todos os hints, warnings e memory leaks deveriam ser resolvidos e todas as correções e implementações feitas. Resumidamente, o que foi feito no projeto:
 
-Implementations -> exception handler with logging; progress bar; thread usage.
-Fixes -> not deleting even values on Datasetloop screen; out of memory errors on ClienteServer screen.
+Implementações -> gerenciador de exceções com geração de log; barra de progresso; utilização de threads.
+Correções -> deletar valores pares na tela Datasetloop; erros de falta de memória na tela ClienteServidor.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -90,7 +96,7 @@ Windows OS.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The only interactive part is in Threads. After typing how many threads you want to create and the time for the interactions, just click on Start and the program will show the thread identification number accompanied by the 'process started' warning. After it has done its work, the program will again display the thread ID along with a 'process terminated' warning.
+A única parte interativa encontra-se em Threads. Após digitar quantas threads deseja criar e o tempo das interações basta clicar em Start e o programa irá mostrar o número de identificação da thread acompanhado do aviso de início do processo. Após o tempo especificado passar, novamente o programa irá mostrar a ID da thread junto de um aviso de processo finalizado.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
