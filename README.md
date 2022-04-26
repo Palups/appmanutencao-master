@@ -5,6 +5,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Leia esta página em português!][brazil-shield]](https://github.com/Palups/appmanutencao-master/blob/main/README-pt-br.md)
+
 
 <!-- PROJECT LOGO -->
 <h3 align="center">Hiring evaluation project</h3>
@@ -72,3 +74,4 @@ The only interactive part is in Threads. After typing how many threads you want 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/viniciusgpalu
 [product-screenshot]: images/screenshot.png
+[brazil-shield]: https://img.shields.io/badge/🇧🇷-Leia_esta_página_em_português!-yellowgreen?style=for-the-badge
