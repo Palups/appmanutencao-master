@@ -7,12 +7,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Leia esta página em português!][brazil-shield]](https://github.com/Palups/appmanutencao-master/blob/main/README-pt-br.md)
 
-
+<br>
 <!-- PROJECT LOGO -->
 <h3 align="center">Hiring evaluation project</h3>
-
   <p align="center">
-    The goal was to demonstrate my skills in Delphi through implementations and fixes described.
+    The goal was to demonstrate my skills in Delphi through implementations and fixes.
     <br />
   </p>
 </div>
